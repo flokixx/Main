@@ -1,0 +1,20 @@
+VERSION="2.2.1"
+
+ACCOUNTS=["GBIPQS44QQEMHUFLOFPNH4U3GB4ICITIHIFB7K7IARGQVPMCI7H6YFLK"]
+
+[DOCUMENTATION]
+ORG_NAME="FLOKI"
+ORG_URL="https://www.floki-stellar.org/"
+ORG_DESCRIPTION="Floki's innovative ecosystem offers a 3D NFT Metaverse, DeFi utilities, a crypto education platform, NFTs, a merchandise store, and more."
+ORG_LOGO="https://www.floki-stellar.org/floki.png"
+
+
+[[CURRENCIES]]
+code="FLOKI"
+status="live"
+display_decimals=6
+issuer="GBIPQS44QQEMHUFLOFPNH4U3GB4ICITIHIFB7K7IARGQVPMCI7H6YFLK"
+anchor_asset_type="crypto"
+name="FLOKI"
+desc="Floki's innovative ecosystem offers a 3D NFT Metaverse, DeFi utilities, a crypto education platform, NFTs, a merchandise store, and more."
+image="https://www.floki-stellar.org/floki.png"
